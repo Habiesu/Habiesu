@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Habiesu
-- 👀 I’m interested in learn python as first language 
-- 🍙 I speak spanish as main language but i can try to speak english
-- 🌱 I’m currently learning Python xd
+- 👋 Hi, I’m @Habiesu.
+- 🍙 I speak spanish as main language but i can understand english too.
 - 📫 How to reach me: habiesu.github@gmail.com
